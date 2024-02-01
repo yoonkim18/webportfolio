@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #FFEBEB;
 	}
 
 	body, input, select, textarea {
@@ -288,11 +288,11 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #212931;
+		color: #FFEBEB;
 	}
 
 	a {
-		color: #212931;
+		color: #FFEBEB;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
